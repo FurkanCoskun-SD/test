@@ -1,2 +1,3 @@
 rootProject.name='LibraryoOne'
 include ':app'
+include ':toastlibrary'
